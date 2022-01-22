@@ -1,0 +1,18 @@
+[
+    {
+        "id" : "jean00",
+        "nombre" : "Top Serena",
+        "imagen" : "https://imgur.com/a/AK2u4op",
+        "color" : "Azul",
+        "descripcion": "Jean indigo lavado 98% ALGODON 2% ELASTANO.",
+        "precio" : "8995"
+    },
+    {
+        "id" : "chino00",
+        "nombre" : "Pantalon Chino",
+        "imagen" : "https://www.canva.com/design/DAEITCzulx4/qFNm0PZiMxRUvYU8aoTgfA/view?utm_content=DAEITCzulx4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+        "color" : "Beige",
+        "descripcion" : "Pantalón de gabardina 98% ALGODON 2% ELASTANO.",
+        "precio" : "8995"
+    }
+]
